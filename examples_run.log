@@ -1,0 +1,879 @@
+Running benchmark docvqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 4
+1457848656
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: qwen2_4bit, Benchmark: docvqa_demo, Accuracy: 0.1625 with Additional Bert F1 is 0.7908902525901794
+Running benchmark vqa2_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 4
+1457848656
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: qwen2_4bit, Benchmark: vqa2_demo, Accuracy: 0.827229917049408 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 4
+1457848656
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: qwen2_4bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
+Running benchmark docvqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 8
+2444558672
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: qwen2_8bit, Benchmark: docvqa_demo, Accuracy: 0.30853174603174605 with Additional Bert F1 is 0.8415680766105652
+Running benchmark vqa2_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 8
+2444558672
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: qwen2_8bit, Benchmark: vqa2_demo, Accuracy: 0.9164935708045959 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 8
+2444558672
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: qwen2_8bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
+Running benchmark docvqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 32
+8835949904
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: qwen2_32bit, Benchmark: docvqa_demo, Accuracy: 0.5269230769230769 with Additional Bert F1 is 0.9131106257438659
+Running benchmark vqa2_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 32
+8835949904
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: qwen2_32bit, Benchmark: vqa2_demo, Accuracy: 0.9340893685817718 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model Qwen/Qwen2-VL-2B-Instruct with quantization mode 32
+8835949904
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: qwen2_32bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
+Running benchmark docvqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 4
+4081135888
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: video_llava_4bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.62538041472435
+Running benchmark vqa2_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 4
+4081135888
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: video_llava_4bit, Benchmark: vqa2_demo, Accuracy: 0.7052165627479553 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 4
+4081135888
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: video_llava_4bit, Benchmark: scienceqa_demo, Accuracy: 37.5 with Additional Bert F1 is 0.8951554372906685
+Running benchmark docvqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 8
+7631614224
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: video_llava_8bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.6346211135387421
+Running benchmark vqa2_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 8
+7631614224
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: video_llava_8bit, Benchmark: vqa2_demo, Accuracy: 0.74645134806633 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 8
+7631614224
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: video_llava_8bit, Benchmark: scienceqa_demo, Accuracy: 62.5 with Additional Bert F1 is 0.9363420754671097
+Running benchmark docvqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 32
+29465129232
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: video_llava_32bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.6339672148227692
+Running benchmark vqa2_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 32
+29465129232
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: video_llava_32bit, Benchmark: vqa2_demo, Accuracy: 0.7550938963890076 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model LanguageBind/Video-LLaVA-7B-hf with quantization mode 32
+29465129232
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: video_llava_32bit, Benchmark: scienceqa_demo, Accuracy: 62.5 with Additional Bert F1 is 0.9363420754671097
+Running benchmark docvqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 4
+4605581792
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: idefics2_4bit, Benchmark: docvqa_demo, Accuracy: 0.7798076923076923 with Additional Bert F1 is 0.962258493900299
+Running benchmark vqa2_demo for model HuggingFaceM4/idefics2-8b with quantization mode 4
+4605581792
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: idefics2_4bit, Benchmark: vqa2_demo, Accuracy: 0.9170659303665161 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 4
+4605581792
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: idefics2_4bit, Benchmark: scienceqa_demo, Accuracy: 25.0 with Additional Bert F1 is 0.845352329313755
+Running benchmark docvqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 8
+8672236000
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: idefics2_8bit, Benchmark: docvqa_demo, Accuracy: 0.7798076923076923 with Additional Bert F1 is 0.962258493900299
+Running benchmark vqa2_demo for model HuggingFaceM4/idefics2-8b with quantization mode 8
+8672236000
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: idefics2_8bit, Benchmark: vqa2_demo, Accuracy: 0.9180369913578034 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 8
+8672236000
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: idefics2_8bit, Benchmark: scienceqa_demo, Accuracy: 25.0 with Additional Bert F1 is 0.845352329313755
+Running benchmark docvqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 32
+33611080640
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: idefics2_32bit, Benchmark: docvqa_demo, Accuracy: 0.7798076923076923 with Additional Bert F1 is 0.962258493900299
+Running benchmark vqa2_demo for model HuggingFaceM4/idefics2-8b with quantization mode 32
+33611080640
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: idefics2_32bit, Benchmark: vqa2_demo, Accuracy: 0.9180369913578034 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model HuggingFaceM4/idefics2-8b with quantization mode 32
+33611080640
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: idefics2_32bit, Benchmark: scienceqa_demo, Accuracy: 25.0 with Additional Bert F1 is 0.845352329313755
+Running benchmark docvqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 4
+2371414536
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+What the location address of NSDA?
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+According to budget request summary what is total amount of other expenses??
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+How many nomination committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+How many nomination committee meetings has S. Banerjee attended?
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+What is the committee strength for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+How many sustainability committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Why Taco Bell's strong consumer base decreased?
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+What is the % of raw material imported in the previous year?
+Model: phi3_5_4bit, Benchmark: docvqa_demo, Accuracy: 0.710034188034188 with Additional Bert F1 is 0.9498616695404053
+Running benchmark vqa2_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 4
+2371414536
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+['Where are the kids riding?']
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+['Is this boy a good pitcher?']
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+['What is the person wearing?']
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+['How many sinks are in this bathroom?']
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+['What sport are the girls playing?']
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+['What is the object on the right?']
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+['Is there an MP3 player on the table?']
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+['Was this picture taken from inside the room?']
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+['What color is the curb?']
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+['How many sheep are there?']
+Model: phi3_5_4bit, Benchmark: vqa2_demo, Accuracy: 0.7020377397537232 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 4
+2371414536
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Question: Which of the following could Gordon's test show?
+
+Choices:
+A. if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour
+B. how steady a parachute with a 1 m vent was at 200 km per hour
+C. whether a parachute with a 1 m vent would swing too much at 400 km per hour
+
+Hint: People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.
+The passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.
+
+Gordon was an aerospace engineer who was developing a parachute for a spacecraft that would land on Mars. He needed to add a vent at the center of the parachute so the spacecraft would land smoothly. However, the spacecraft would have to travel at a high speed before landing. If the vent was too big or too small, the parachute might swing wildly at this speed. The movement could damage the spacecraft.
+So, to help decide how big the vent should be, Gordon put a parachute with a 1 m vent in a wind tunnel. The wind tunnel made it seem like the parachute was moving at 200 km per hour. He observed the parachute to see how much it swung.
+Figure: a spacecraft's parachute in a wind tunnel.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Question: What is the name of the colony shown?
+
+Choices:
+A. Maryland
+B. New Hampshire
+C. Rhode Island
+D. Vermont
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Question: Which of these organisms contains matter that was once part of the lichen?
+
+Choices:
+A. bilberry
+B. mushroom
+
+Hint: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada.
+A food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+
+Choices:
+A. 0:4
+B. 4:0
+C. 2:2
+D. 1:3
+E. 3:1
+
+Hint: This passage describes the fleece type trait in sheep:
+The fleece, or outer coat, of a sheep is often cut off and used to make yarn for fabrics and other textiles. Woolly fleeces, which have shorter hairs, are usually used for clothing and blankets. Hairy fleeces, which have longer hairs, are usually used for carpets.
+In a group of sheep, some individuals have a hairy fleece and others have a woolly fleece. In this group, the gene for the fleece type trait has two alleles. The allele for a hairy fleece (F) is dominant over the allele for a woolly fleece (f).
+This Punnett square shows a cross between two sheep.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Question: Which property do these three objects have in common?
+
+Choices:
+A. shiny
+B. slippery
+C. opaque
+
+Hint: Select the best answer.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+
+Choices:
+A. The magnitude of the magnetic force is the same in both pairs.
+B. The magnitude of the magnetic force is smaller in Pair 1.
+C. The magnitude of the magnetic force is smaller in Pair 2.
+
+Hint: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes and shapes.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Question: What is the capital of Wyoming?
+
+Choices:
+A. Phoenix
+B. Baton Rouge
+C. Honolulu
+D. Cheyenne
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+
+Choices:
+A. true
+B. false
+
+Hint: Use the data to answer the question below.
+
+Please answer directly with only the letter of the correct option.
+Model: phi3_5_4bit, Benchmark: scienceqa_demo, Accuracy: 87.5 with Additional Bert F1 is 0.9812302887439728
+Running benchmark docvqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 8
+4345358856
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+What the location address of NSDA?
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+According to budget request summary what is total amount of other expenses??
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+How many nomination committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+How many nomination committee meetings has S. Banerjee attended?
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+What is the committee strength for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+How many sustainability committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Why Taco Bell's strong consumer base decreased?
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+What is the % of raw material imported in the previous year?
+Model: phi3_5_8bit, Benchmark: docvqa_demo, Accuracy: 0.6602564102564102 with Additional Bert F1 is 0.92317054271698
+Running benchmark vqa2_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 8
+4345358856
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+['Where are the kids riding?']
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+['Is this boy a good pitcher?']
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+['What is the person wearing?']
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+['How many sinks are in this bathroom?']
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+['What sport are the girls playing?']
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+['What is the object on the right?']
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+['Is there an MP3 player on the table?']
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+['Was this picture taken from inside the room?']
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+['What color is the curb?']
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+['How many sheep are there?']
+Model: phi3_5_8bit, Benchmark: vqa2_demo, Accuracy: 0.7040699064731598 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 8
+4345358856
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Question: Which of the following could Gordon's test show?
+
+Choices:
+A. if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour
+B. how steady a parachute with a 1 m vent was at 200 km per hour
+C. whether a parachute with a 1 m vent would swing too much at 400 km per hour
+
+Hint: People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.
+The passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.
+
+Gordon was an aerospace engineer who was developing a parachute for a spacecraft that would land on Mars. He needed to add a vent at the center of the parachute so the spacecraft would land smoothly. However, the spacecraft would have to travel at a high speed before landing. If the vent was too big or too small, the parachute might swing wildly at this speed. The movement could damage the spacecraft.
+So, to help decide how big the vent should be, Gordon put a parachute with a 1 m vent in a wind tunnel. The wind tunnel made it seem like the parachute was moving at 200 km per hour. He observed the parachute to see how much it swung.
+Figure: a spacecraft's parachute in a wind tunnel.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Question: What is the name of the colony shown?
+
+Choices:
+A. Maryland
+B. New Hampshire
+C. Rhode Island
+D. Vermont
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Question: Which of these organisms contains matter that was once part of the lichen?
+
+Choices:
+A. bilberry
+B. mushroom
+
+Hint: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada.
+A food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+
+Choices:
+A. 0:4
+B. 4:0
+C. 2:2
+D. 1:3
+E. 3:1
+
+Hint: This passage describes the fleece type trait in sheep:
+The fleece, or outer coat, of a sheep is often cut off and used to make yarn for fabrics and other textiles. Woolly fleeces, which have shorter hairs, are usually used for clothing and blankets. Hairy fleeces, which have longer hairs, are usually used for carpets.
+In a group of sheep, some individuals have a hairy fleece and others have a woolly fleece. In this group, the gene for the fleece type trait has two alleles. The allele for a hairy fleece (F) is dominant over the allele for a woolly fleece (f).
+This Punnett square shows a cross between two sheep.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Question: Which property do these three objects have in common?
+
+Choices:
+A. shiny
+B. slippery
+C. opaque
+
+Hint: Select the best answer.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+
+Choices:
+A. The magnitude of the magnetic force is the same in both pairs.
+B. The magnitude of the magnetic force is smaller in Pair 1.
+C. The magnitude of the magnetic force is smaller in Pair 2.
+
+Hint: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes and shapes.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Question: What is the capital of Wyoming?
+
+Choices:
+A. Phoenix
+B. Baton Rouge
+C. Honolulu
+D. Cheyenne
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+
+Choices:
+A. true
+B. false
+
+Hint: Use the data to answer the question below.
+
+Please answer directly with only the letter of the correct option.
+Model: phi3_5_8bit, Benchmark: scienceqa_demo, Accuracy: 87.5 with Additional Bert F1 is 0.9812302887439728
+Running benchmark docvqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 32
+16586490376
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+What the location address of NSDA?
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+According to budget request summary what is total amount of other expenses??
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+How many nomination committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+How many nomination committee meetings has S. Banerjee attended?
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+What is the committee strength for the sustainability committee meeting held on 5th April, 2012?
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+How many sustainability committee meetings has Y. C. Deveshwar attended?
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Why Taco Bell's strong consumer base decreased?
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+What is the % of raw material imported in the previous year?
+Model: phi3_5_32bit, Benchmark: docvqa_demo, Accuracy: 0.6442307692307693 with Additional Bert F1 is 0.8921236336231232
+Running benchmark vqa2_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 32
+16586490376
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+['Where are the kids riding?']
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+['Is this boy a good pitcher?']
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+['What is the person wearing?']
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+['How many sinks are in this bathroom?']
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+['What sport are the girls playing?']
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+['What is the object on the right?']
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+['Is there an MP3 player on the table?']
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+['Was this picture taken from inside the room?']
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+['What color is the curb?']
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+['How many sheep are there?']
+Model: phi3_5_32bit, Benchmark: vqa2_demo, Accuracy: 0.7041278660297394 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model microsoft/Phi-3.5-vision-instruct with quantization mode 32
+16586490376
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Question: Which of the following could Gordon's test show?
+
+Choices:
+A. if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour
+B. how steady a parachute with a 1 m vent was at 200 km per hour
+C. whether a parachute with a 1 m vent would swing too much at 400 km per hour
+
+Hint: People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.
+The passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.
+
+Gordon was an aerospace engineer who was developing a parachute for a spacecraft that would land on Mars. He needed to add a vent at the center of the parachute so the spacecraft would land smoothly. However, the spacecraft would have to travel at a high speed before landing. If the vent was too big or too small, the parachute might swing wildly at this speed. The movement could damage the spacecraft.
+So, to help decide how big the vent should be, Gordon put a parachute with a 1 m vent in a wind tunnel. The wind tunnel made it seem like the parachute was moving at 200 km per hour. He observed the parachute to see how much it swung.
+Figure: a spacecraft's parachute in a wind tunnel.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Question: What is the name of the colony shown?
+
+Choices:
+A. Maryland
+B. New Hampshire
+C. Rhode Island
+D. Vermont
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Question: Which of these organisms contains matter that was once part of the lichen?
+
+Choices:
+A. bilberry
+B. mushroom
+
+Hint: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada.
+A food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+
+Choices:
+A. 0:4
+B. 4:0
+C. 2:2
+D. 1:3
+E. 3:1
+
+Hint: This passage describes the fleece type trait in sheep:
+The fleece, or outer coat, of a sheep is often cut off and used to make yarn for fabrics and other textiles. Woolly fleeces, which have shorter hairs, are usually used for clothing and blankets. Hairy fleeces, which have longer hairs, are usually used for carpets.
+In a group of sheep, some individuals have a hairy fleece and others have a woolly fleece. In this group, the gene for the fleece type trait has two alleles. The allele for a hairy fleece (F) is dominant over the allele for a woolly fleece (f).
+This Punnett square shows a cross between two sheep.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Question: Which property do these three objects have in common?
+
+Choices:
+A. shiny
+B. slippery
+C. opaque
+
+Hint: Select the best answer.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+
+Choices:
+A. The magnitude of the magnetic force is the same in both pairs.
+B. The magnitude of the magnetic force is smaller in Pair 1.
+C. The magnitude of the magnetic force is smaller in Pair 2.
+
+Hint: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes and shapes.
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Question: What is the capital of Wyoming?
+
+Choices:
+A. Phoenix
+B. Baton Rouge
+C. Honolulu
+D. Cheyenne
+
+Please answer directly with only the letter of the correct option.
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+
+Choices:
+A. true
+B. false
+
+Hint: Use the data to answer the question below.
+
+Please answer directly with only the letter of the correct option.
+Model: phi3_5_32bit, Benchmark: scienceqa_demo, Accuracy: 100.0 with Additional Bert F1 is 1.0000001043081284
+Running benchmark docvqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 4
+3928425224
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: llavanext_4bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.6730128347873687
+Running benchmark vqa2_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 4
+3928425224
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: llavanext_4bit, Benchmark: vqa2_demo, Accuracy: 0.7693512737751007 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 4
+3928425224
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: llavanext_4bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
+Running benchmark docvqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 8
+7327908616
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: llavanext_8bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.6683648467063904
+Running benchmark vqa2_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 8
+7327908616
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: llavanext_8bit, Benchmark: vqa2_demo, Accuracy: 0.7636377573013305 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 8
+7327908616
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: llavanext_8bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
+Running benchmark docvqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 32
+28253737736
+Image saved as example_outputs/docvqa/docvqa_image_1.png
+Image saved as example_outputs/docvqa/docvqa_image_2.png
+Image saved as example_outputs/docvqa/docvqa_image_3.png
+Image saved as example_outputs/docvqa/docvqa_image_4.png
+Image saved as example_outputs/docvqa/docvqa_image_5.png
+Image saved as example_outputs/docvqa/docvqa_image_6.png
+Image saved as example_outputs/docvqa/docvqa_image_7.png
+Image saved as example_outputs/docvqa/docvqa_image_8.png
+Image saved as example_outputs/docvqa/docvqa_image_9.png
+Image saved as example_outputs/docvqa/docvqa_image_10.png
+Model: llavanext_32bit, Benchmark: docvqa_demo, Accuracy: 0.0 with Additional Bert F1 is 0.6659349977970124
+Running benchmark vqa2_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 32
+28253737736
+Image saved as example_outputs/vqa2/vqa2_image_1.png
+Image saved as example_outputs/vqa2/vqa2_image_2.png
+Image saved as example_outputs/vqa2/vqa2_image_3.png
+Image saved as example_outputs/vqa2/vqa2_image_4.png
+Image saved as example_outputs/vqa2/vqa2_image_5.png
+Image saved as example_outputs/vqa2/vqa2_image_6.png
+Image saved as example_outputs/vqa2/vqa2_image_7.png
+Image saved as example_outputs/vqa2/vqa2_image_8.png
+Image saved as example_outputs/vqa2/vqa2_image_9.png
+Image saved as example_outputs/vqa2/vqa2_image_10.png
+Model: llavanext_32bit, Benchmark: vqa2_demo, Accuracy: 0.7343460023403168 with Additional Bert F1 is 0
+Running benchmark scienceqa_demo for model llava-hf/LLaVA-NeXT-Video-7B-hf with quantization mode 32
+28253737736
+Image saved as example_outputs/sciencevqa/science_image_2.png
+Image saved as example_outputs/sciencevqa/science_image_3.png
+Image saved as example_outputs/sciencevqa/science_image_6.png
+Image saved as example_outputs/sciencevqa/science_image_10.png
+Image saved as example_outputs/sciencevqa/science_image_11.png
+Image saved as example_outputs/sciencevqa/science_image_14.png
+Image saved as example_outputs/sciencevqa/science_image_15.png
+Image saved as example_outputs/sciencevqa/science_image_16.png
+Model: llavanext_32bit, Benchmark: scienceqa_demo, Accuracy: 75.0 with Additional Bert F1 is 0.9555978178977966
