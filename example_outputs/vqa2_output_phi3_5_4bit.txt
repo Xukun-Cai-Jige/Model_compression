@@ -1,0 +1,51 @@
+Test Case 1:
+Question: Where are the kids riding?
+Expected Answer: carnival ride
+Model Output: The kids are riding on a miniature train.
+--------------------------------------------------
+Test Case 2:
+Question: Is this boy a good pitcher?
+Expected Answer: yes
+Model Output: The image shows a young baseball player in the middle of a pitch, wearing a black jersey with the number 5 and grey pants. Without additional context or information about his performance, it is not possible to determine if he is a good pitcher.
+--------------------------------------------------
+Test Case 3:
+Question: What is the person wearing?
+Expected Answer: wetsuit
+Model Output: The person is wearing a black wetsuit.
+--------------------------------------------------
+Test Case 4:
+Question: How many sinks are in this bathroom?
+Expected Answer: 4
+Model Output: There are two sinks in the bathroom.
+--------------------------------------------------
+Test Case 5:
+Question: What sport are the girls playing?
+Expected Answer: soccer
+Model Output: The girls are playing soccer.
+--------------------------------------------------
+Test Case 6:
+Question: What is the object on the right?
+Expected Answer: umbrella
+Model Output: The object on the right is a red umbrella.
+--------------------------------------------------
+Test Case 7:
+Question: Is there an MP3 player on the table?
+Expected Answer: no
+Model Output: No, there is no MP3 player visible on the table.
+--------------------------------------------------
+Test Case 8:
+Question: Was this picture taken from inside the room?
+Expected Answer: no
+Model Output: Yes
+--------------------------------------------------
+Test Case 9:
+Question: What color is the curb?
+Expected Answer: gray
+Model Output: The curb is yellow.
+--------------------------------------------------
+Test Case 10:
+Question: How many sheep are there?
+Expected Answer: 1
+Model Output: There is one sheep visible in the image.
+--------------------------------------------------
+BERT Score F1: 0.7020377397537232

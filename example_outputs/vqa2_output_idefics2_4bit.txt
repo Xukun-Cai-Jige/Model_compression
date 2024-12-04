@@ -1,0 +1,51 @@
+Test Case 1:
+Question: Where are the kids riding?
+Expected Answer: carnival ride
+Model Output: Fire truck.
+--------------------------------------------------
+Test Case 2:
+Question: Is this boy a good pitcher?
+Expected Answer: yes
+Model Output: Yes.
+--------------------------------------------------
+Test Case 3:
+Question: What is the person wearing?
+Expected Answer: wetsuit
+Model Output: Wetsuit.
+--------------------------------------------------
+Test Case 4:
+Question: How many sinks are in this bathroom?
+Expected Answer: 4
+Model Output: There are two sinks in this bathroom.
+--------------------------------------------------
+Test Case 5:
+Question: What sport are the girls playing?
+Expected Answer: soccer
+Model Output: Soccer.
+--------------------------------------------------
+Test Case 6:
+Question: What is the object on the right?
+Expected Answer: umbrella
+Model Output: Umbrella.
+--------------------------------------------------
+Test Case 7:
+Question: Is there an MP3 player on the table?
+Expected Answer: no
+Model Output: No.
+--------------------------------------------------
+Test Case 8:
+Question: Was this picture taken from inside the room?
+Expected Answer: no
+Model Output: Yes.
+--------------------------------------------------
+Test Case 9:
+Question: What color is the curb?
+Expected Answer: gray
+Model Output: Gray.
+--------------------------------------------------
+Test Case 10:
+Question: How many sheep are there?
+Expected Answer: 1
+Model Output: 1
+--------------------------------------------------
+BERT Score F1: 0.9170659303665161

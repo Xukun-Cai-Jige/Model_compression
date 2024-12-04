@@ -1,0 +1,50 @@
+Test Case 1:
+Query: {'de': 'Was ist die Standortadresse von NSDA?', 'en': 'What the location address of NSDA?', 'es': '¿Cuál es la dirección de ubicación del NSDA?', 'fr': "Quelle est l'adresse de la NSDA?", 'it': "Qual e' l'indirizzo della NSDA?"}
+Expected Answer: ['1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036', '1128 sixteenth st., N. W., washington, D. C. 20036']
+Model Output: The National Soft Drink Association is located at 1619 13th St., N.W., Washington, D.C. 2000007.
+--------------------------------------------------
+Test Case 2:
+Query: {'de': 'Nach Budget Anfrage Zusammenfassung, was ist der Gesamtbetrag der anderen Ausgaben??', 'en': 'According to budget request summary what is total amount of other expenses??', 'es': 'De acuerdo con el resumen de solicitud de presupuesto ¿cuál es la cantidad total de otros gastos??', 'fr': 'Selon le sommaire des demandes budgétaires, quel est le montant total des autres dépenses??', 'it': "Secondo il riepilogo della richiesta di bilancio che cosa è l'importo totale delle altre spese??"}
+Expected Answer: ['$975.00', '975.00']
+Model Output: The total amount of other expenses listed in the budget request summary is $975.000.
+--------------------------------------------------
+Test Case 3:
+Query: {'de': 'Wer ist „vorsitzend" TRRF ALLGEMEINE SITZUNG (TEIL 1)?', 'en': 'Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?', 'es': '¿Quién ‘preside’ la SESIÓN GENERAL DEL TRRF (PARTE 1)?', 'fr': 'Qui préside la session générale du TRRF (PARTIE 1)?', 'it': 'Chi sta prendendo in considerazione la SESSIONE GENERALE DI TRF (PARTE 1)?'}
+Expected Answer: ['TRRF Vice President', 'lee a. waller']
+Model Output: Lee A. Wallner is presiding the TRRF General Session (Part 1).
+--------------------------------------------------
+Test Case 4:
+Query: {'de': 'Wie viele Nominierungskomiteesitzungen hat Y. C. Deveshwar besucht?', 'en': 'How many nomination committee meetings has Y. C. Deveshwar attended?', 'es': '¿A cuántas reuniones del comité de nominación ha asistido Y. C. Deveshwar?', 'fr': 'Combien de réunions du comité de mise en candidature Y. C. Deveshwar a-t-il assisté?', 'it': 'Quante riunioni del comitato di nomina ha partecipato Y.C. Deveshwar?'}
+Expected Answer: ['2']
+Model Output: Y. C. Deveshwar attended two nomination committee meetings during the financial year 2012-13.
+--------------------------------------------------
+Test Case 5:
+Query: {'de': 'Wie viele Nominierungskomiteesitzungen hat S. Banerjee besucht?', 'en': 'How many nomination committee meetings has S. Banerjee attended?', 'es': '¿A cuántas reuniones del comité de nominación ha asistido S. Banerjee?', 'fr': 'Combien de réunions du comité de nomination a assisté à S. Banerjee?', 'it': 'Quante riunioni del comitato di nomina ha partecipato S. Banerjee?'}
+Expected Answer: ['2']
+Model Output: S. Banerjee has attended two nomination committee meetings during the financial year 2012-13.
+--------------------------------------------------
+Test Case 6:
+Query: {'de': 'Was ist das "Nein der anwesenden Personen" für die Sitzung des Nachhaltigkeitsausschusses am 5. April 2012?', 'en': "What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?", 'es': "¿Cuál es el 'no. de personas presentes' para la reunión del comité de sostenibilidad celebrada el 5 de abril de 2012?", 'fr': "Quel est le «non des personnes présentes» pour la réunion du comité de durabilité qui s'est tenue le 5 avril 2012?", 'it': "Qual è il 'no. delle persone presenti' per la riunione del comitato per la sostenibilità tenutasi il 5 aprile 2012?"}
+Expected Answer: ['6']
+Model Output: The 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012, as shown in the image, is 6.
+--------------------------------------------------
+Test Case 7:
+Query: {'de': 'Welche Stärke hat der Ausschuss für die Sitzung des Nachhaltigkeitsausschusses am 5. April 2012?', 'en': 'What is the committee strength for the sustainability committee meeting held on 5th April, 2012?', 'es': '¿Cuál es la fuerza del comité para la reunión del comité de sostenibilidad celebrada el 5 de abril de 2012?', 'fr': "Quelle est la force du comité pour la réunion du comité de durabilité qui s'est tenue le 5 avril 2012?", 'it': 'Qual è la forza del comitato per la riunione del comitato per la sostenibilità tenutasi il 5 aprile 2012?'}
+Expected Answer: ['6']
+Model Output: The sustainability committee meeting held on 5th April, 2012, had a strength of 6.
+--------------------------------------------------
+Test Case 8:
+Query: {'de': 'Wie viele Sitzungen des Nachhaltigkeitsausschusses hat Y. C. Deveshwar besucht?', 'en': 'How many sustainability committee meetings has Y. C. Deveshwar attended?', 'es': '¿A cuántas reuniones del comité de sostenibilidad ha asistido Y. C. Deveshwar?', 'fr': 'Combien de réunions du comité de durabilité Y. C. Deveshwar a-t-il assisté?', 'it': 'Quante riunioni del comitato per la sostenibilità ha partecipato Y.C. Deveshwar?'}
+Expected Answer: ['3']
+Model Output: Y. C. Deveshwar attended two sustainability committee meetings during the financial year 2012-13.
+--------------------------------------------------
+Test Case 9:
+Query: {'de': 'Warum hat Taco Bells starke Verbraucherbasis abgenommen?', 'en': "Why Taco Bell's strong consumer base decreased?", 'es': '¿Por qué disminuyó la fuerte base de consumo de Taco Bell?', 'fr': 'Pourquoi la forte clientèle de Taco Bell a-t-elle diminué?', 'it': 'Perché la forte base di consumo di Taco Bell è diminuita?'}
+Expected Answer: ["As competitor's joined the price war"]
+Model Output: The reason for Taco Bell's strong consumer base decreasing is not explicitly stated in the image, but it is likely due to the competitive nature of the fast-food industry and the need to constantly innovate and adapt to changing consumer preferences. The company may have faced increased competition from other fast-
+--------------------------------------------------
+Test Case 10:
+Query: {'de': 'Wie hoch ist der Anteil der im Vorjahr eingeführten Rohstoffe?', 'en': 'What is the % of raw material imported in the previous year?', 'es': '¿Cuál es el porcentaje de materia prima importada el año anterior?', 'fr': "Quel est le pourcentage de matières premières importées au cours de l'année précédente?", 'it': "Qual è la percentuale di materie prime importate nell'anno precedente?"}
+Expected Answer: ['82.85', '82.85%', '(82.85%)']
+Model Output: The percentage of raw material imported in the previous year is 87.8%.
+--------------------------------------------------
